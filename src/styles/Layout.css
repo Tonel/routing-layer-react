@@ -1,0 +1,8 @@
+main {
+    min-height: calc(100vh - 162px);
+}
+
+main div {
+    padding: 20px;
+    text-align: center;
+}
