@@ -12,4 +12,5 @@ const routes = [
     { path: PathConstants.PORTFOLIO, element: <Portfolio /> },
     { path: PathConstants.ABOUT, element: <About /> },
 ]
+
 export default routes
